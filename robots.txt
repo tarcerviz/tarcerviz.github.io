@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tarcerviz.github.io/sitemap.html.gz
+Sitemap: https://tarcerviz.github.io/app/sitemap.html.gz
+Sitemap: https://tarcerviz.github.io/assets/sitemap.html.gz
+Sitemap: https://tarcerviz.github.io/css/sitemap.html.gz
+Sitemap: https://tarcerviz.github.io/includes/sitemap.html.gz
+Sitemap: https://tarcerviz.github.io/item/sitemap.html.gz
+Sitemap: https://tarcerviz.github.io/src/sitemap.html.gz
